@@ -6,6 +6,10 @@
 
 ###
 
+<h3 align="left">Conecta conmigo: <br>jadrianc777@gmail.com</h3>
+
+###
+
 <h2 align="left">Programo con</h2>
 
 ###
