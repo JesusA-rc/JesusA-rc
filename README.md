@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Ingeniero en Sistemas computacioales con conocimientos en desarrollo web y aplicaciones de escritorio .Net<br>Mi experiencia abarca desde el diseño y desarrollo de interfaces de usuario intuitivas hasta la implementación de funcionalidades complejas.</h2>
+<h2 align="left">Ingeniero en Sistemas computacionales con conocimientos en desarrollo web y aplicaciones de escritorio .Net<br>Mi experiencia abarca desde el diseño y desarrollo de interfaces de usuario intuitivas hasta la implementación de funcionalidades complejas.</h2>
 
 ###
 
