@@ -29,7 +29,6 @@
   <img width="12" />
   <img src="https://images.icon-icons.com/2415/PNG/512/typescript_original_logo_icon_146317.png" height="40" alt="Typescript"  />
   <img width="12" />
-  <img src="https://pbs.twimg.com/profile_images/1798056830041788417/HIapkjDx_400x400.jpg" height="40" alt="Material ui"  />
 </div>
 
 ###
